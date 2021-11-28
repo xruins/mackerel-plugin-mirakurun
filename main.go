@@ -1,6 +1,6 @@
 package main
 
-import "./lib"
+import "github.com/xruins/mackerel-plugin-mirakurun/lib"
 
 func main() {
 	mpmirakurun.Do()
